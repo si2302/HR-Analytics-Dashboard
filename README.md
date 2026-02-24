@@ -1,4 +1,7 @@
 # HR-Analytics-Dashboard
+
+<img width="983" height="537" alt="image" src="https://github.com/user-attachments/assets/82903805-4658-433b-b54c-3e4c13651de8" />
+
 Below are the KPIs:
 1️⃣ Workforce Structure KPIs
 🔹 Total Headcount
